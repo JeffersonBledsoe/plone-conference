@@ -81,3 +81,4 @@ test-acceptance: ## Start Core Cypress Acceptance Tests
 .PHONY: test-acceptance-headless
 test-acceptance-headless: ## Start Core Cypress Acceptance Tests in headless mode
 	NODE_ENV=production CYPRESS_API=plone $(NODEBIN)/cypress run
+
