@@ -1,0 +1,19 @@
+{
+  "portal": [
+    {
+      "email": "jeff.bledsoe@pretagov.com.au",
+      "properties": {
+        "fullname": "Plone Conference",
+        "location": "World"
+      },
+      "groups": [
+      ],
+      "roles": [
+        "Member"
+      ],
+      "username": "plone-conference"
+    }
+  ],
+    "team": [
+  ]
+}
